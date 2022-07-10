@@ -1,0 +1,112 @@
+/* CSS for  Fashion Blog from Codecademy's course, "Front-End Engineer" */
+
+body {
+  background-color: Navy;
+  color:darkblue;
+}
+
+#profile {
+  margin-top: 3em;
+  border: 5px dashed chocolate;
+}
+
+#byline {
+  color: mediumspringgreen;
+  text-align: center;
+}
+
+
+h1 {
+  color: greenyellow;
+  text-align: center;
+  margin-top: 2em;
+}
+
+#jeans {
+  border:  5px solid deepskyblue;
+}
+
+a {
+  color: red;
+  }
+
+#first-h2 {
+  color: blueviolet;
+  text-align: center;
+}
+
+#leather-jacket {
+  border: 5px ridge sandybrown;
+}
+
+#second-h2 {
+  color: gold;
+  text-align: center;
+}
+
+
+
+p {
+  display:block;
+  color: violet;
+  width: 30%;
+ font-weight: bold;
+ font-style: oblique;
+ margin-left: auto;
+ margin-right: auto;
+ 
+}
+
+#second-paragraph {
+  display:block;
+  color: aqua;
+  width: 30%;
+ font-weight: bold;
+ //font-style: oblique;
+
+}
+
+#hat-man {
+  border: 7px inset darkslategray;
+}
+
+#third-paragraph {
+  display:block;
+  color: mediumspringgreen;
+  width: 30%;
+ font-weight: bold;
+ font-style: oblique;
+
+}
+
+.pic {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4 {
+  color: orange;
+  text-align: center;
+}
+
+ul  {
+ 
+  color: salmon;
+  
+  display: table;
+  margin: 0 auto;
+
+}
+/*
+li {
+  color: salmon;
+  text-align: center;
+  list-style: none;
+}
+
+*/
+
+#contact-info {
+  color: aquamarine;
+}
