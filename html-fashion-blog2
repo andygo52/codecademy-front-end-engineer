@@ -1,0 +1,44 @@
+<!-- HTML for Fashion Blog for Codecademy's course, "Front-End Engineering Career Path" -->
+
+<!DOCTYPE hmtl>
+<html>
+  <head>
+    <title>Everyday with Isa</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+  </head>
+
+  <body>
+    <section>
+   <a href="#contact"> <img id = "profile" class="pic" src = "https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg" alt="Isa"></a>
+    <h3 id = "byline">by Isabelle Rodriguez | 1 day ago</h3>
+    </section>
+      <h1>An Insider's Guide to NYFW</h1>
+
+      <img id = "jeans" class = "pic" src= "https://content.codecademy.com/courses/learn-html/elements-and-structure/image-one.jpeg"  alt="Fashion T-shirt with ripped jeans.">
+      <p><a href="https://en.wikipedia.org/wiki/New_York_Fashion_Week"  target="_blank"> NYFW</a> can be both amazingly fun & incredibly overwhelming, especially if you've never been.  Luckily, I'm here to give you an insider's guide and make your first show a pleasurable experience.  By taking my tips and tricks, and following your gut, you'll have an unforgettable experience!</p>
+      <h2 id="first-h2">Getting Tickets & Picking the Shows</h2>
+
+      <img id="leather-jacket" class = "pic" src="https://content.codecademy.com/courses/learn-html/elements-and-structure/image-two.jpeg" alt="Leather jacket over beige blouse.">
+      <p id= "second-paragraph">If you’re lucky or connected you can get an invite, sans the price tag. But I wasn’t so lucky or connected my first 2 years so I’m here to help you out. First, plan out which shows are most important to you and make a schedule and this is a biggie: SET A BUDGET. If you’re worrying about blowing your cash the whole time you won’t have fun. Then check out prices, days, and times and prioritize the designers you want to see most. Lastly, purchase your tickets and get excited!</p>
+      <h2 id="second-h2">Dressing for the Shows</h2>
+
+      <img id= "hat-man" class = "pic" src = "https://content.codecademy.com/courses/learn-html/elements-and-structure/image-three.jpeg" alt="Man in black hat and black sweater over white shirt with bowtie.">
+      <p id= "third-paragraph">Always be true to your own sense of style, if you don’t you’ll be uncomfortable the whole time and it will show. Remember, NYFW is about expressing yourself and taking in what the designers have chosen to express through their new lines. Also it’s important to wear shoes you’ll be comfortable in all day. Obviously you want to look good, but you’ll be on your feet all day long, so be prepared.</p>
+      <br>
+ 
+      <h4 id="related">Related content</h4>
+      <ul>
+        <li>How to Style Boyfriend Jeans</li>
+        <li>When Print is Too Much</li>
+        <li>The Overalls Trend</li>
+        <li>Fall's It Color: Blush</li>
+
+      </ul>
+
+    <div id="contact">
+      <p id= "contact-info"><strong>email</strong>: isa@fashionblog.com | <strong>phone</strong>: 917-555-1098 | <strong>address</strong>: 371 284th St, New York, NY, 10001</p>
+
+    </div>
+  </body>
+</html>
